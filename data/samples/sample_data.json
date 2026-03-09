@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "What is the primary focus of the report \"Enhancing Circular Economy of End-of-Life Vehicles (ELVs) in India\"?",
+    "output": "The primary focus of the report is to enhance the circular economy of End-of-Life Vehicles (ELVs) in India.",
+    "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the primary focus of the report \"Enhancing Circular Economy of End-of-Life Vehicles (ELVs) in India\"?\n\n### Response:\nThe primary focus of the report is to enhance the circular economy of End-of-Life Vehicles (ELVs) in India."
+  },
+  {
+    "instruction": "Who provided financial assistance for the preparation of this report, and who is responsible for the findings and opinions expressed within it?",
+    "output": "The Energy and Resources Institute (TERI) received financial assistance from NITI Aayog's Research Scheme (RSNA). NITI Aayog does not confirm the authenticity of the data or accuracy of the methodology and is not responsible for the findings or opinions expressed, which rest entirely with TERI and Dr. Souvik Bhattacharya.",
+    "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWho provided financial assistance for the preparation of this report, and who is responsible for the findings and opinions expressed within it?\n\n### Response:\nThe Energy and Resources Institute (TERI) received financial assistance from NITI Aayog's Research Scheme (RSNA). NITI Aayog does not confirm the authenticity of the data or accuracy of the methodology and is not responsible for the findings or opinions expressed, which rest entirely with TERI and Dr. Souvik Bhattacharya."
+  },
+  {
+    "instruction": "When was this report published?",
+    "output": "This report was published in January 2026.",
+    "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhen was this report published?\n\n### Response:\nThis report was published in January 2026."
+  },
+  {
+    "instruction": "Which ministries are acknowledged for their support in finalizing the report on ELV circular economy?",
+    "output": "The concerned ministries are acknowledged for their support in finalizing the report.",
+    "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich ministries are acknowledged for their support in finalizing the report on ELV circular economy?\n\n### Response:\nThe concerned ministries are acknowledged for their support in finalizing the report."
+  },
+  {
+    "instruction": "List the different models mentioned for the establishment of Automated Testing Stations (ATS) for ELV management.",
+    "output": "The different models for the establishment of ATS are:\n1. Privately owned and operated enterprise.\n2. Setup by the State, with operations outsourced to a private vendor.\n3. Privately set up, with the state selecting a concessionaire through bidding.\n4. Set up and operated through a Public-Private-Partnership model.",
+    "text": "Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nList the different models mentioned for the establishment of Automated Testing Stations (ATS) for ELV management.\n\n### Response:\nThe different models for the establishment of ATS are:\n1. Privately owned and operated enterprise.\n2. Setup by the State, with operations outsourced to a private vendor.\n3. Privately set up, with the state selecting a concessionaire through bidding.\n4. Set up and operated through a Public-Private-Partnership model."
+  }
+]

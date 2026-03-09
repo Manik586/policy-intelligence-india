@@ -1,0 +1,38 @@
+# --- Python Environment ---
+venv/
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Large Datasets (Local only) ---
+# We ignore the full JSONL and JSON files to avoid hitting GitHub limits
+data/raw/*.pdf
+data/processed/*.jsonl
+data/processed/*.json
+# But we DO want to keep the small sample file
+!data/samples/sample_data.json
+
+# --- Model Weights & Training Outputs ---
+# These are GBs of data stored on your Drive, not GitHub
+checkpoint-*/
+policy_intelligence_v1/
+circular_economy_v2/
+outputs/
+*.pt
+*.bin
+*.gguf
+*.safetensors
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Editor & IDE ---
+.vscode/
+.vscode-server/
+.idea/
+*.swp
+
+# --- Project Specific Fix ---
+.vscode/extensions/

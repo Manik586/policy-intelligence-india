@@ -1,0 +1,27 @@
+[
+  {
+    "id": "task_01",
+    "category": "End-of-Life Vehicles",
+    "instruction": "What are the specific NITI Aayog recommendations for the 'circularity' of End-of-Life Vehicles (ELVs) in India?"
+  },
+  {
+    "id": "task_02",
+    "category": "Mineral Security",
+    "instruction": "How does the 2026 Circular Economy Roadmap propose to use battery scrappage to enhance India's strategic mineral security for Lithium and Cobalt?"
+  },
+  {
+    "id": "task_03",
+    "category": "E-Waste Management",
+    "instruction": "Explain the role of the 'Hub and Spoke' model in formalizing the informal sector's role in e-waste collection according to the latest NITI Aayog guidelines."
+  },
+  {
+    "id": "task_04",
+    "category": "Trade Policy",
+    "instruction": "Describe the concept of 'Circular Trade Credits' and how it allows for the export of recycled components as Green Trade Credits."
+  },
+  {
+    "id": "task_05",
+    "category": "Regulatory Targets",
+    "instruction": "What are the mandated EPR targets for tyre recycling and scrap rubber for the 2025-2026 period?"
+  }
+]

@@ -1,0 +1,22 @@
+# --- Core Unsloth & Transformers ---
+unsloth
+unsloth_zoo==2026.2.1
+transformers==4.56.2
+trl==0.24.0
+peft
+accelerate
+bitsandbytes
+
+# --- Hardware Acceleration ---
+xformers==0.0.28.post3
+torchao>=0.16.0
+cut_cross_entropy
+
+# --- Data Processing & API ---
+pymupdf4llm
+datasets==3.4.1
+google-genai
+huggingface_hub
+hf_transfer
+msgspec
+tyro
